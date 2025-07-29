@@ -1,6 +1,6 @@
 # Introducción a Golang
 
-Go es un lenguaje de progración, desarrllado por Google, concurrente y compilado con tipado estático inspirado en la sintaxis de C pero con memory security y garbage collector. Es un lenguaje creado en 2009 que actualmente se usa en muchos ambitos laborales y que nos pertirá realizar nuestro trabajo práctico y entender los conceptos de la materia.
+Go es un lenguaje de programación, desarrollado por Google, concurrente y compilado con tipado estático inspirado en la sintaxis de C pero con memory security y garbage collector. Es un lenguaje creado en 2009 que actualmente se usa en muchos ambitos laborales y que nos permitirá realizar nuestro trabajo práctico y entender los conceptos de la materia.
 
 ## Arrancando - Hola Mundo Go
 
